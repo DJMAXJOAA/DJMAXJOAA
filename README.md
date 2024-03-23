@@ -23,5 +23,5 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
       <br>
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ps6237">
+         <a href=https://solved.ac/profile/ps6237> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ps6237"> </a>
     </div>
