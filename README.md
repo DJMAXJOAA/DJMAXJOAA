@@ -15,7 +15,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.notion.so/8accc38efa984489b1b9c9ee41a3e2fa?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/8accc38efa984489b1b9c9ee41a3e2fa?pvs=4"> </a>
+    <div align= "center"> <a href=https://app.notion.com/p/39a99905a17580ebb45ecf123a834eae?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/8accc38efa984489b1b9c9ee41a3e2fa?pvs=4"> </a>
          <a href=https://velog.io/@cpsn6237> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@cpsn6237"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
